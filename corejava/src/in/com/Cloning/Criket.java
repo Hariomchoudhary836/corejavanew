@@ -44,7 +44,7 @@ public class Criket{
 		System.out.println(p1.c.ground);
 		
 		System.out.println(p2.fee);
-	System.out.println(p2.name);
+	    System.out.println(p2.name);
 		System.out.println(p2.c.ground);
 	}
 }
